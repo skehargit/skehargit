@@ -19,7 +19,10 @@
         <b> Hobbys : </b> 𝘋𝘳𝘢𝘸𝘪𝘯𝘨, 𝘗𝘩𝘰𝘵𝘰𝘌𝘥𝘪𝘵𝘪𝘯𝘨, 𝘊𝘰𝘥𝘪𝘯𝘨
     </li>
     <li>
-        <b>Email :</b> sudhansusekharweb@gmail.com
+        <b>Email : </b> sudhansusekharweb@gmail.com
+    </li>
+    <li>
+        <b>LinkedIn : </b> <a href="https://www.linkdinn.com/in/sudhansu-sekhar-behera-972210249">click</a>
     </li>
 </div>
 <br>
